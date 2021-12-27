@@ -1,5 +1,8 @@
 # QOI Wrapper
 
+[![Ruby Style Guide](https://img.shields.io/badge/code_style-rubocop-brightgreen.svg)](https://github.com/rubocop/rubocop)
+[![Ruby](https://github.com/bbenno/qoi_wrapper/actions/workflows/main.yml/badge.svg)](https://github.com/bbenno/qoi_wrapper/actions/workflows/main.yml)
+
 A lightweight Ruby wrapper around [QOI - The “Quite OK Image Format” for fast, lossless image compression](https://github.com/phoboslab/qoi).
 
 ## Installation

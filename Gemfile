@@ -12,3 +12,5 @@ gem "rake-compiler"
 gem "minitest", "~> 5.0"
 
 gem "rubocop", "~> 1.21"
+
+gem "shoulda", "~> 4.0"

@@ -3,4 +3,7 @@
 
 #include "ruby.h"
 
+#define QOI_IMPLEMENTATION
+#include "qoi/qoi.h"
+
 #endif /* QOI_WRAPPER_H */

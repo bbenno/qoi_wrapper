@@ -3,6 +3,7 @@
 require_relative "qoi_wrapper/version"
 require_relative "qoi_wrapper/qoi_wrapper"
 
+# QOI image format wrapper
 module QoiWrapper
   class Error < StandardError; end
 

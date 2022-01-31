@@ -12,7 +12,7 @@ gem "rake-compiler"
 gem "minitest", "~> 5.0"
 
 gem "rubocop", "~> 1.24"
-gem "rubocop-minitest", "~> 0.17.0"
+gem "rubocop-minitest", "~> 0.17.1"
 gem "rubocop-rake", "~> 0.6.0"
 
 gem "shoulda", "~> 4.0"

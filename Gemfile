@@ -9,7 +9,7 @@ gem "rake", "~> 13.0"
 
 gem "rake-compiler"
 
-gem "minitest", "~> 5.0"
+gem "minitest", "~> 5.16"
 
 gem "rubocop", "~> 1.28"
 gem "rubocop-minitest", "~> 0.19.0"
